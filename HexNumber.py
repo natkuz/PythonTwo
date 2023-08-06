@@ -25,4 +25,3 @@ else:
         res_16 = res + res_16
         num = num // 16
 print(res_16, hex(num1).replace("0x", ""))
-
